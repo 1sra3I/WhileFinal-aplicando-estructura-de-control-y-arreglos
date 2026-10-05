@@ -19,6 +19,7 @@ Problemas en como funcionan arreglos
 Diferentes metodologias de ejercicios
 
 Conclusion:
+
 En mi experiencia esta practica la verdad que ahorita mismo se me hace que esta sencilla, pero si esta larga porque cada uno de los temas que agregamos lleva su proceso
 
 
