@@ -4,7 +4,7 @@ Hecho por: Israel Moreno Lopez
 
 Introduccion:
 
-Este programa se ejecuta en consola y te muestra un menú con distintas opciones, esas opciones fueron temas vistos en clase, son 6 opciones 5 temas y uno para salir de la ejecución, si eliges una opción y terminas, le dimos la opción de que se repita hasta que no le des la opción de salir
+Este trabajo fue desarrollado en el 1er semestre. Este programa se ejecuta en consola y te muestra un menú con distintas opciones, esas opciones fueron temas vistos en clase, son 6 opciones 5 temas y uno para salir de la ejecución, si eliges una opción y terminas, le dimos la opción de que se repita hasta que no le des la opción de salir
 
 Opciones:
 
